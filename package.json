@@ -1,17 +1,5 @@
 {
   "name": "@reactjsui/core-bootstrap-css",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Bunlong",
-  "license": "MIT"
-}
-
-{
-  "name": "@reactjsui/core-bootstrap-css",
   "version": "2.1.9",
   "description": "Open Source UI tools built on top of Bootstrap 4",
   "keywords": [
